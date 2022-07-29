@@ -9,4 +9,4 @@ Responsive in bigger screen and mobile device
 ![img](https://img.shields.io/badge/HTML-5-yellowgreen) ![img](https://img.shields.io/badge/CSS-3-red)
 
 
-### Live Deployed website link [Netlify](https://kabir-h-ritu.netlify.app/)
+### Live Deployed website link [Netlify](https://kabir-h.netlify.app/)
